@@ -1,0 +1,27 @@
+{
+  "name": "projeto-end-to-ende",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fpinheiro80/Projeto-end-to-ende.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fpinheiro80/Projeto-end-to-ende/issues"
+  },
+  "homepage": "https://github.com/Fpinheiro80/Projeto-end-to-ende#readme",
+  "dependencies": {
+    "cypress": "^16.2.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0"
+  }
+}
